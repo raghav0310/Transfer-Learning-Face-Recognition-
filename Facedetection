@@ -134,12 +134,12 @@ import numpy as np
 from os import listdir
 from os.path import isfile, join
 
-fr_dict = {"[0]": "Govind ", 
-                      "[1]": "Anirudhi",
+fr_dict = {"[0]": "Parth ", 
+                      "[1]": "Raghav",
                       }
 
-fr_dict_n = {"govind": "Govind ", 
-                      "anirudhi": "Anirudhi",
+fr_dict_n = {"parth": "Parth ", 
+                      "raghav": "Raghav",
                       }
 
 def draw_test(name, pred, im):
